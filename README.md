@@ -6,7 +6,7 @@ Documented evidence for CEH Module 17 labs completed in an authorized environmen
 ## Completed Tasks
 
 ### Task 2 — Phonesploit Pro  
-Evidence: `evidence/task-2-phonesploitpro/`
+Evidence: `evidence/task-2-phonesploitpro`
 
 Lab focus:
 - Connecting Phonesploit Pro to an Android emulator
@@ -14,7 +14,7 @@ Lab focus:
 - Capturing outputs and validating tool behavior
 
 ### Task 4 — Social Engineering Toolkit (SET)  
-Evidence: `evidence/task-4-set/`
+Evidence: `evidence/task-4-set`
 
 Lab focus:
 - Running SET in a controlled lab environment
